@@ -1,0 +1,19 @@
+li {
+    margin: 20px 30px;
+}
+
+.link {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+
+    &:hover {
+        font-weight: bold;
+        color: darkmagenta;
+        text-decoration: none;
+    }
+}
+
+h3 {
+    color: thistle;
+}
